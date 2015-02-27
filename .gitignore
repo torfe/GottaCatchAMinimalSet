@@ -1,0 +1,7 @@
+*Resharper*
+bin
+obj
+*.log
+*.suo
+*.user
+packages
